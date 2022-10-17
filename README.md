@@ -1,2 +1,2 @@
-# DIO-analise-covid-machine-learning
-Using machine learning to predict the number of case of COVID-19 in Braziol
+# DIO Analyses Covid Machine Çearning
+Using machine learning to predict the number of case of COVID-19 in Brazil
